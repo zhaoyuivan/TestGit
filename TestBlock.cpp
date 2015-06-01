@@ -133,6 +133,7 @@ static void __main_block_func_0(struct __main_block_impl_0 *__cself, int arg) {
 static struct __main_block_desc_0 {
   size_t reserved;
   size_t Block_size;
+//    adb
 } __main_block_desc_0_DATA = { 0, sizeof(struct __main_block_impl_0)};
 int main() {
     int foo;
